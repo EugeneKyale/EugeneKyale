@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene Kyale
 - 👀 I’m a Frontend Developer with over 5 years of experience.
-- 📫 Please check out my portfoli on https://eugene.co.ke/
+- 📫 Please check out my portfolio on https://eugene.co.ke/
 
 <!---
 EugeneKyale/EugeneKyale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
