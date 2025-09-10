@@ -25,7 +25,7 @@ I specialize in:
 
 ## 🛠️ Tech Stack  
 
-<section align="left">
+<section style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
@@ -46,14 +46,12 @@ I specialize in:
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneKyale&theme=default" alt="GitHub Streak"/>
-</p>
+<section style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img style="flex: 1" src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneKyale&theme=default" alt="GitHub Streak"/>
+    <img style="flex: 1" src="https://github-readme-stats.vercel.app/api?username=EugeneKyale&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
+</section>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EugeneKyale&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
-</p>
 
-<p align="center">
+<section style="margin-top: 20px">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EugeneKyale&theme=github" alt="Activity Graph"/>
-</p>
+</section>
