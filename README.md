@@ -65,8 +65,3 @@ I specialize in:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EugeneKyale&theme=github" alt="Activity Graph"/>
 </p>
-
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="75%">
-</p>
