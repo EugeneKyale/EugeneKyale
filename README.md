@@ -1,4 +1,4 @@
-# Hi, I'm Eugene 👋
+# Howdy! I'm Eugene 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EugeneKyale&color=blue&style=flat-square)
 
@@ -14,7 +14,7 @@ I specialize in:
 
 ---
 
-## 🚀 Highlights
+## Highlights
 - 9+ years in professional web development  
 - 10s of websites, plugins and themes delivered & maintained  
 - Expertise in **WordPress, React, PHP, and modern JavaScript**  
@@ -23,7 +23,7 @@ I specialize in:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <section align="left">
   <!-- Languages -->
